@@ -1,4 +1,4 @@
 ## Hi there 👋, I'm Anupam R
 
-**Aspiring Full stack developer | AI & ML enthusiast **
+Aspiring Full Stack Developer | AI & ML Enthusiast
 
